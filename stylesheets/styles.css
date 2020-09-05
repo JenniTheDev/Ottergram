@@ -31,6 +31,10 @@ a{
     text-decoration: none;
 }
 
+.thumbnail-item + thumbnail-item {
+  margin-top: 10px;
+}
+
 .thumbnail-image{
     display: block;
     width: 100%;
